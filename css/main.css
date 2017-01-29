@@ -1,0 +1,31 @@
+* {
+  font-family: 'Slabo', sans-serif;
+}
+
+nav {
+  width: 100%;
+  display: block;
+}
+
+nav img {
+  display: inline-block;
+  height: 75px;
+}
+
+nav > div {
+  width: 50%;
+}
+
+nav > div > p {
+  display: inline-block;
+}
+
+nav ul {
+  display: inline-block;
+  list-style: none;
+}
+
+nav li a {
+  display: inline-block;
+  text-decoration: none;
+}
