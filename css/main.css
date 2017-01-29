@@ -15,6 +15,6 @@ nav li {
   display: inline-block;
 }
 
-nav span {
-  height: 25px;
+nav > span {
+  font-family: 'Slabo', sans-serif;
 }
