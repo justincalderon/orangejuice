@@ -2,20 +2,32 @@
   font-family: 'Slabo', sans-serif;
 }
 
-nav {
-  display: block;
-  background-color: #fe7e00;
+body {
+  background-color: #ffbd4a
 }
 
-nav ul {
+ul {
   display: inline-block;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+.nav {
+  background-color: #ffbd4a
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.nav ul li a {
+  text-decoration: none;
   float: right;
-}
-
-nav li {
-  display: inline-block;
-}
-
-nav > span {
-  font-family: 'Slabo', sans-serif;
+  display: block;
 }
