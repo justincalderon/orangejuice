@@ -36,3 +36,19 @@ nav ul li a {
   color: white;
   padding: 20px;
 }
+
+section {
+  background-color: white;
+  height: 500px;
+}
+
+section img {
+  padding-top: 85px;
+  display: block;
+  float: left;
+}
+
+section p {
+  text-align: center;
+  padding-top: 50px;
+}
