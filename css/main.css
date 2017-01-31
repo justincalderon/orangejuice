@@ -30,3 +30,32 @@ nav {
   text-decoration: none;
   font-weight: bold;
 }
+
+hr {
+  background-color: #fe7e00;
+  border: 0;
+  height: 5px;
+}
+
+input {
+  background-color: #efefed;
+  border: 25px;
+}
+
+div .search {
+  display: inline-block;
+  width: 100%;
+}
+
+.search {
+  float: right;
+  display: inline-block;
+  border: 25px solid #efefed;
+  background-color: #efefed;
+  margin-top: 10px;
+  margin-right: 11%;
+}
+
+section img {
+  float: center;
+}
