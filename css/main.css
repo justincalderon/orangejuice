@@ -56,11 +56,14 @@ div .search {
   margin-right: 11%;
 }
 
-.content {
+.content p {
   margin-top: 150px;
   display: block;
+  float: left;
+  margin-left: 25%;
 }
 
-div p {
-  float: right;
+.text {
+  border: 1px solid black;
+  clear: both;
 }
