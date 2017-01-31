@@ -56,6 +56,11 @@ div .search {
   margin-right: 11%;
 }
 
-section img {
-  float: center;
+.content {
+  margin-top: 150px;
+  display: block;
+}
+
+div p {
+  float: right;
 }
