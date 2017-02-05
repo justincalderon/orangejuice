@@ -90,7 +90,7 @@ div .search {
   display: inline-block;
   padding: 50px;
   text-align: center;
-  margin-bottom: 200px;
+  margin-bottom: 50px;
 }
 
 .button1 {
@@ -108,9 +108,8 @@ div .search {
   font-weight: bold;
 }
 
-#footer {
-  background-color: #7accc8;
-  width: 100%;
-  height: 100%;
-  position: fixed;
+.footer {
+  background: #7accc8;
+  min-height: 100px;
+  top: 300px;
 }
