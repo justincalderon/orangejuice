@@ -1,5 +1,4 @@
 * {
-  border: 0;
   margin: 0;
   padding: 0;
 }
@@ -108,8 +107,7 @@ div .search {
   font-weight: bold;
 }
 
-.footer {
+#footer {
   background: #7accc8;
-  min-height: 100px;
-  top: 300px;
+  height: 100px;
 }
