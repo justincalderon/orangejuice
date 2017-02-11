@@ -138,7 +138,7 @@ div .search {
     font-size: 10px;
   }
   .search {
-    height: 25px;
+    height: 15px;
     width: 85px;
   }
   .search input {
@@ -146,3 +146,5 @@ div .search {
     width: 75%;
   }
 }
+
+/* end max-width 1200px */
